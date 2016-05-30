@@ -1,1 +1,1 @@
-welcome to github1
+from cmd...welcome to github1
